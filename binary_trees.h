@@ -2,7 +2,7 @@
 #define BINARY_TREES_H
 
 #include <stdio.h>
-#inlcude <stdlib.h>
+#include <stdlib.h>
 
 
 /**
